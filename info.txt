@@ -1,0 +1,4 @@
+This is the mallorn kaggle challenge:
+https://www.kaggle.com/competitions/mallorn-astronomical-classification-challenge/overview
+
+https://colab.research.google.com/drive/1N7Q1bxc2gxBuOv2eD3fTYsrxoLC2dQAP#scrollTo=2576bdee
